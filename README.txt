@@ -11,6 +11,8 @@ It is written in C++, analyses syntax only and does not know anyhing about
 semantics (physical characteristics). It is intended to be independent of
 additional external libraries at build or runtime (namespace ::std:: only).
 
+http://developer.berlios.de/projects/libcfp/
+
 Documentation
 -------------
 
