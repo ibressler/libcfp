@@ -53,7 +53,7 @@ Copyright
 This library is released under the GNU Lesser General Public License (LGPL).
 For further information see LICENSE.txt
 
-Initially, it was written by Ingo Bressler (ingo {at} cs . tu-berlin . de) 
+It was written by Ingo Bressler (libcfp at ingobressler.net)
 at the Stranski-Laboratory for Physical and Theoretical Chemistry of the 
 Technische Universität Berlin.
 Postal address:

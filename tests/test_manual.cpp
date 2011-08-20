@@ -21,10 +21,11 @@
  */
 /*
  * Author(s) of this file:
- * Ingo Bressler (ingo@cs.tu-berlin.de)
+ * Ingo Bressler (libcfp at ingobressler.net)
  */
 
 #include <iostream>
+#include <cstring>
 #include <cfp/cfp.h>
 
 // A simple test and usage example

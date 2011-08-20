@@ -19,7 +19,7 @@
 # along with libcfp.  If not, see <http://www.gnu.org/licenses/>.
 
 # Author(s) of this file:
-# Ingo Bressler (ingo@cs.tu-berlin.de)
+# Ingo Bressler (libcfp at ingobressler.net)
 
 set(PRJ_NAME libcfp)
 project(${PRJ_NAME})
@@ -30,8 +30,7 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${${PRJ_NAME}_SOURCE_DIR}/lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${${PRJ_NAME}_SOURCE_DIR}/lib)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${${PRJ_NAME}_SOURCE_DIR}/bin)
 
-# .<adjust here start>. #
-# v                   v #
+# <adjust here> #
 
 set(CMAKE_BUILD_TYPE Release)
 set(CMAKE_CXX_FLAGS "-Wall")
@@ -40,8 +39,7 @@ set(CMAKE_CXX_FLAGS_DEBUG "-g -save-temps ${CMAKE_CXX_FLAGS}")
 set(CMAKE_CXX_FLAGS_RELEASE "-O2 ${CMAKE_CXX_FLAGS}")
 message(STATUS ">> Configuring for >${CMAKE_BUILD_TYPE}< build")
 
-# ^                  ^ #
-# `<adjust here stop>´ #
+# </adjust here> #
 
  #################################
 ## libs required for the library ## (included, no adjustments necessary)

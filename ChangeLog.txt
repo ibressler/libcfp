@@ -1,4 +1,10 @@
-2009-12-23
+2011-08-20, 0.2
 
-Initial release of version 0.1 hosted at BerliOS.
+- updated boost&adobe template libraries to work with g++ 4.4.5
+  - ASL 1.0.43, Boost 1.40
+- updated contact data
+
+2009-12-23, 0.1
+
+- Initial release of version 0.1 hosted at BerliOS.
 

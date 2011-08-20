@@ -19,7 +19,7 @@
 # along with libcfp.  If not, see <http://www.gnu.org/licenses/>.
 
 # Author(s) of this file:
-# Ingo Bressler (ingo@cs.tu-berlin.de)
+# Ingo Bressler (libcfp at ingobressler.net)
 
 include_directories(
 	${${PRJ_NAME}_SOURCE_DIR}/include

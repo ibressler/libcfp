@@ -21,7 +21,7 @@
  */
 /*
  * Author(s) of this file:
- * Ingo Bressler (ingo at cs.tu-berlin.de)
+ * Ingo Bressler (libcfp at ingobressler.net)
  */
 
 #ifndef CFP_ERROR_H

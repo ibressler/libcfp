@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classcfp_1_1ChemicalElementInterface.html" title="Representation of a generic chemical element." alt="" coords="7,32,223,61"/>
+<area shape="rect" id="node3" href="$classcfp_1_1ChemicalElement.html" title="Implementation data structure." alt="" coords="307,5,467,35"/>
+<area shape="rect" id="node5" href="$classcfp_1_1CompoundElementInterface.html" title="Representation of a chemical element within a compound." alt="" coords="273,59,500,88"/>
+<area shape="rect" id="node7" href="$classcfp_1_1CompoundElement.html" title="A concrete compound element descriptor implementation." alt="" coords="569,32,740,61"/>
+<area shape="rect" id="node9" href="$structcfp_1_1CompoundGroupElement.html" title="Additional to the properties of a cfp::CompoundElement, this owns a group property." alt="" coords="549,85,760,115"/>
+</map>
