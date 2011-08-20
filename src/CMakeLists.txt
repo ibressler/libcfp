@@ -19,7 +19,7 @@
 # along with libcfp.  If not, see <http://www.gnu.org/licenses/>.
 
 # Author(s) of this file:
-# Ingo Bressler (ingo at cs.tu-berlin.de)
+# Ingo Bressler (libcfp at ingobressler.net)
 
 set(lib_src
 	parser.cpp
