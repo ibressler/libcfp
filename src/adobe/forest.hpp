@@ -153,7 +153,7 @@ class filter_fullorder_iterator
         last_m(l)
     { }
     
-    template <typename U> filter_fullorder_iterator(const filter_fullorder_iterator<U, P>& x) :
+    filter_fullorder_iterator(const filter_fullorder_iterator<I, P>& x) :
         filter_fullorder_iterator::iterator_adaptor_(x.base()),
         inside_m(x.inside_m),
         first_m(x.first_m),
@@ -298,7 +298,7 @@ class depth_fullorder_iterator : public boost::iterator_adaptor<depth_fullorder_
         depth_fullorder_iterator::iterator_adaptor_(x),
         depth_m(d)
     { }
-    template <typename U> depth_fullorder_iterator(const depth_fullorder_iterator<U>& x) :
+    depth_fullorder_iterator(const depth_fullorder_iterator<I>& x) :
         depth_fullorder_iterator::iterator_adaptor_(x.base()),
         depth_m(x.depth_m)
     { }
@@ -1045,7 +1045,7 @@ filter_fullorder_range(const R& x, P p)
 {
     typedef filter_fullorder_iterator<typename boost::range_const_iterator<R>::type, P> iterator;
 
-    return std::make_pair(iterator(p, boost::begin(x), boost::end(x)), iterator(p, boost::end(x), boost::end(x)));
+    return std::make_pair(iterator(boost::begin(x), boost::end(x), p),  iterator(boost::end(x), boost::end(x), p));
 }
 
 /*************************************************************************************************/
