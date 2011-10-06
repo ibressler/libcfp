@@ -16,10 +16,12 @@ https://github.com/ibressler/libcfp
 ### Documentation
 
 - If you want to use this library in your own application, the entry point is in
+
   *doc_user/html/index.html*
 
 - If you want to contribute to the library itself or want to know how it works
   internally, the entry point is in
+
   *doc_full/html/index.html*
 
 ### How to build
