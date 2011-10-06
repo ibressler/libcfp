@@ -11,18 +11,15 @@ It is written in C++, analyses syntax only and does not know anyhing about
 semantics (physical characteristics). It is intended to be independent of
 additional external libraries at build or runtime (namespace ::std:: only).
 
-https://github.com/ibressler/libcfp
+On github: https://github.com/ibressler/libcfp
 
 ### Documentation
 
-- If you want to use this library in your own application, the entry point is in
+- http://ibressler.github.com/libcfp/
 
-    doc_user/html/index.html
+- [API Documentation](http://ibressler.github.com/libcfp/doc_user/html/index.html) if you want to use this library in your own application.
 
-- If you want to contribute to the library itself or want to know how it works
-  internally, the entry point is in
-
-    doc_full/html/index.html
+- [Developer Documentation](http://ibressler.github.com/libcfp/doc_full/html/index.html) If you want to contribute to the library itself or want to know how it works.
 
 ### How to build
 
