@@ -16,15 +16,15 @@ https://github.com/ibressler/libcfp
 ### Documentation
 
 - If you want to use this library in your own application, the entry point is in
-  ''doc_user/html/index.html''
+  '''doc_user/html/index.html'''
 
 - If you want to contribute to the library itself or want to know how it works
   internally, the entry point is in
-  ''doc_full/html/index.html''
+  '''doc_full/html/index.html'''
 
 ### How to build
 
-CMake is used for building the library on various platforms. Just run ''cmake''
+CMake is used for building the library on various platforms. Just run '''cmake'''
 to get a list of available generators (which generate build environment
 specific project files). On a common Linux system it should be like that:
 
@@ -34,10 +34,10 @@ specific project files). On a common Linux system it should be like that:
     cmake ..
     make
 
-Afterwards, the libraries (dynamic and static) can be found in ''lib/''
+Afterwards, the libraries (dynamic and static) can be found in '''lib/'''
 
 For advanced build settings (debug symbols, optimization, warnings, etc ...), 
-adjust ''CMakeLists.txt'' to your needs.
+adjust '''CMakeLists.txt''' to your needs.
 
 In a MSYS shell on a Windows combined with MinGW, you may have to specify a
 Makefile generator:
