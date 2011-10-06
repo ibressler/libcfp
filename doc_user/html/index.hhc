@@ -58,27 +58,24 @@
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
 <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
   <UL>
-  <LI><OBJECT type="text/sitemap"><param name="Name" value="/home/ingo/code/libcfp/berlios/trunk/include/cfp/cfp.h"><param name="ImageNumber" value="11"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Name" value="/home/ingo/code/libcfp/berlios/trunk/include/cfp/error.h"><param name="ImageNumber" value="11"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Name" value="/home/ingo/code/libcfp/berlios/trunk/src/doc/doc_mainpage.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="/home/ingo/code/libcfp/repo/include/cfp/cfp.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="/home/ingo/code/libcfp/repo/include/cfp/error.h"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="/home/ingo/code/libcfp/repo/src/doc/doc_mainpage.h"><param name="ImageNumber" value="11"></OBJECT>
   </UL>
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Directory Hierarchy"><param name="Local" value="dirs.html"><param name="ImageNumber" value="1"></OBJECT>
   <UL>
-  <LI><OBJECT type="text/sitemap"><param name="Name" value="berlios"><param name="Local" value="dir_09bc9b8a02157fb0c82cb316c334e062.html"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="repo"><param name="Local" value="dir_0074e47e2414e96567eea71bb41cefe4.html"><param name="ImageNumber" value="1"></OBJECT>
     <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Name" value="trunk"><param name="Local" value="dir_58d102346cba56a6bc1b0a83da5d7d7b.html"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="include"><param name="Local" value="dir_75e4bae1f39bcd1d02044fd4452d71a9.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="include"><param name="Local" value="dir_74165e75b070ff818dd27c9ffc5c5861.html"><param name="ImageNumber" value="1"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cfp"><param name="Local" value="dir_dc3dd0324e0ee4655c645300f0bcba01.html"><param name="ImageNumber" value="11"></OBJECT>
         <UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="cfp"><param name="Local" value="dir_2813037c7036b5ada54caa011a58dc46.html"><param name="ImageNumber" value="11"></OBJECT>
-          <UL>
-          </UL>
         </UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_d6ab1b1bd1b12c8417b640de35f5f7dc.html"><param name="ImageNumber" value="1"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_7fafd97160a629d8a3bbe781b2afb806.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="doc"><param name="Local" value="dir_b3672712c99ebe02c9d88fa024848f89.html"><param name="ImageNumber" value="11"></OBJECT>
         <UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="doc"><param name="Local" value="dir_13eb5c62bfeb3b37c12c9f2eea58f22c.html"><param name="ImageNumber" value="11"></OBJECT>
-          <UL>
-          </UL>
         </UL>
       </UL>
     </UL>
