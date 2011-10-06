@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$structcfp_1_1ChemicalElementData.html" title="Implementation data of a cfp::ChemicalElement." alt="" coords="5,5,197,35"/>
+<area shape="rect" id="node3" href="$structcfp_1_1CompoundElementData.html" title="Implementation data of a cfp::CompoundElement." alt="" coords="245,5,448,35"/>
+<area shape="rect" id="node5" href="$structcfp_1_1CompoundGroupElementData.html" title="Implementation data of a (internal) cfp::CompoundGroupElement." alt="" coords="496,5,739,35"/>
+</map>
