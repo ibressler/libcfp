@@ -51,16 +51,9 @@ The selects the cmake generator for Makefiles used in a MSYS shell.
 This library is released under the GNU Lesser General Public License (LGPL).
 For further information see LICENSE
 
-It was written by Ingo Bressler (libcfp at ingobressler.net)
-at the Stranski-Laboratory for Physical and Theoretical Chemistry of the 
-Technische Universität Berlin.
-Postal address:
+Copyright (c) 2010-2011 Ingo Bressler (libcfp at ingobressler.net)
 
-    TU-Berlin
-    Stranski-Laboratorium
-    Institut für Chemie
-    Fakultät II
-    Sekr. TC 7
-    Straße des 17. Juni 124
-    10623 Berlin
+It was started by Ingo Bressler (libcfp at ingobressler.net)
+at the Stranski-Laboratory for Physical and Theoretical Chemistry of the 
+Technische Universität Berlin in 2009.
 

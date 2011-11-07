@@ -62,12 +62,9 @@
  * \image html logo_lgpl.png
  * \image latex logo_lgpl.png width=2cm
  * </td></tr><tr><td>
- * - It was written by Ingo Bressler (libcfp at ingobressler.net) at the
- * <a href="http://www.chemie.tu-berlin.de/gradzielski/menue/physikalische_chemie_molekulare_materialwissenschaften/">Stranski-Laboratory for Physical and Theoretical Chemistry</a> of the <a href="http://www.tu-berlin.de">Technische Universit&auml;t Berlin</a>.
- * </td><td>
- * \image html logo_tub.png
- * \image latex logo_tub.png width=2cm
- * </td></tr>
+ * - A product of Ingo Bressler (libcfp at ingobressler.net)
+ * </td>
+ * </tr>
  * </table>
  *
  */
